@@ -1,0 +1,6 @@
+*.out
+*.dic
+*.zip
+directory/*/
+data/datasets/*/
+__pycache__/
