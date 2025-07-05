@@ -2,7 +2,7 @@
 
 The official repo for the [EMNLP 2023](https://2023.emnlp.org/) paper "__Homophone Disambiguation Reveals Patterns of Context Mixing in Speech Transformers__"
 
-🤗[[Data]](https://huggingface.co/datasets/hosein-m/french_homophones)
+🤗[[Data]](https://huggingface.co/datasets/hosein-m/french_homophone_asr)
 
 📃[[Paper]](https://aclanthology.org/2023.emnlp-main.513.pdf)
 
